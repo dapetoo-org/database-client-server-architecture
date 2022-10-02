@@ -63,6 +63,7 @@ In the MySQL terminal enter the following commands to perform the following acti
 ```
  ### MySQL Server 
  ![MySQL Server](https://github.com/scholarship-task/database-client-server-architecture/blob/main/project5-mysql-server2.png)
+
 Connect to the MySQL server instance from the MySQL client instance
 This command will prompt for a password, the password will be the password used when creating the user on the MySQL server
 ```bash
@@ -70,6 +71,8 @@ This command will prompt for a password, the password will be the password used 
   show databases;
 ```
 
+### MySQL Client connecting to the MySQL Server
+![MySQL Client](https://github.com/scholarship-task/database-client-server-architecture/blob/main/project5-mysql-client.png)
 show databases is MySQL query to show all the databses the user has the privilege to view, edit or update;
 -u username <mysql_user>
 -p port 3306 <default>
