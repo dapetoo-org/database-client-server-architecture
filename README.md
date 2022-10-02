@@ -61,7 +61,8 @@ In the MySQL terminal enter the following commands to perform the following acti
   FLUSH PRIVILEGES;
   sudo systemctl restart mysql
 ```
-    
+ ### MySQL Server 
+ ![MySQL Server](https://github.com/scholarship-task/database-client-server-architecture/blob/main/project5-mysql-server2.png)
 Connect to the MySQL server instance from the MySQL client instance
 This command will prompt for a password, the password will be the password used when creating the user on the MySQL server
 ```bash
