@@ -12,7 +12,9 @@ This project implements a Client-Server architecture using MySQL database, a dat
 - Security rule: 3306 for MySQL, 22 for SSH
 - Terminal, MobxTerm, Termius, EC2 Instance Connect, RDP, Putty
 
+## EC2 Instances
 
+![EC2 Instances](https://github.com/scholarship-task/database-client-server-architecture/blob/main/project5-ec2.png?raw=true)
 
 ## Installation
 
