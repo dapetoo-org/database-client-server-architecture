@@ -14,7 +14,7 @@ This project implements a Client-Server architecture using MySQL database, a dat
 
 ## EC2 Instances
 
-![EC2 Instances](https://github.com/scholarship-task/database-client-server-architecture/blob/main/project5-ec2.png?raw=true)
+![EC2 Instances](https://github.com/scholarship-task/database-client-server-architecture/blob/main/project5-ec2.png)
 
 ## Installation
 
@@ -25,6 +25,8 @@ Install **mysql-server** on MySQL-Server EC2 instance with the following command
   sudo apt install mysql-server -y
   sudo systemctl status mysql
 ```
+### MySQL Server Status
+![MySQL Server](https://github.com/scholarship-task/database-client-server-architecture/blob/main/mysql-server-satus.png)
     
 Install **mysql-client** on MySQL-Server EC2 instance with the following commands to get the latest packages from the repo and also install MySQL-Client
 
